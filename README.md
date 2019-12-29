@@ -23,7 +23,7 @@ Olle Logdahl, 29 December 2019
 ---
 
 <p align="center">
-  <img src="https://github.com/ollelogdahl/ConsoleGameEngine/blob/master/Media/main.png" width = 512 heigth = 384 />
+  <img src="https://github.com/ollelogdahl/ConsoleGameEngine/blob/master/Media/main 3.png" width = 512 heigth = 384 />
 </p>
 
 ## Links
