@@ -18,13 +18,19 @@ Olle Logdahl, 29 December 2019
 
 ---
 
+## Controls
+
+- **Space** to generate a new dungeon
+- **Arrow keys** to manually move camera
+- **~, § or \\** to open console
+  - **/save [path]** saves current dungeon
+  - **/load [path]** loads saved dungeon
+
+---
+
 ## Notes
 - Files are saved under user://
 ---
-
-<p align="center">
-  <img src="https://github.com/ollelogdahl/ConsoleGameEngine/blob/master/Media/main 3.png" width = 512 heigth = 384 />
-</p>
 
 ## Links
 
